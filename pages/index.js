@@ -6,10 +6,4 @@ function Home() {
   );
 }
 
-function teste2() {
-  console.log("olá");
-}
-
-function teste() {}
-
 export default Home;
